@@ -1,0 +1,2 @@
+#!/bin/bash +vx
+java -classpath bin:/home1/vchaska1/protobuf/protobuf-java-3.5.1.jar BranchController $1 $2
