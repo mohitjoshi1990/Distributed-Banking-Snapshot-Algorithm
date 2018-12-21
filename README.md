@@ -1,0 +1,1 @@
+# Distributed Banking Snapshot Algorithm
